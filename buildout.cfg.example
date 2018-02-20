@@ -1,0 +1,5 @@
+[buildout]
+extends =
+#    profiles/production.cfg
+#    profiles/sandbox.cfg
+#    profiles/devel.cfg
